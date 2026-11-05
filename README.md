@@ -2,7 +2,7 @@
 
 ## Integrantes
 - SantRR
-- 0mudkip
+- 0mudkip - Edgar
 
 ## Quién hizo qué
 | Integrante | Problema | Qué hizo |
