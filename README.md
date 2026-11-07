@@ -1,14 +1,14 @@
 # AA3 · Examen del Parcial II · Equipo 7
 
 ## Integrantes
-- SantRR
-- 0mudkip - Edgar
+- Santiago Romo Rubio (SantRR)
+- Edgar Ivan Galvez Ortega (0mudkip)
 
 ## Quién hizo qué
 | Integrante | Problema | Qué hizo |
 |---|---|---|
-| | CardioRitmo (`ecg/`) | |
-| | Compra Fácil Bajío (`resenas/`) | |
+| Santiago Romo Rubio | CardioRitmo (`ecg/`) | |
+| Edgar Ivan Galvez Ortega | Compra Fácil Bajío (`resenas/`) | |
 
 ## Modelo elegido
 - **CardioRitmo (latidos):** _pendiente_
