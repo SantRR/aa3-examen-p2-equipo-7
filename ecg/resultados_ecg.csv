@@ -1,1 +1,5 @@
 modelo,tipo,parametros,sensibilidad,especificidad,auc,cumple,elegido
+Línea base (clase mayoritaria),linea base,0,0.0,1.0,0.5,False,False
+MLP,densa,11137,0.9831730769230769,1.0,0.99851406085353,True,False
+Conv1D,convolucional,6369,0.9927884615384616,0.9948630136986302,0.9990903253424657,True,True
+GRU,recurrente,3393,0.96875,1.0,0.9961390279241307,True,False
