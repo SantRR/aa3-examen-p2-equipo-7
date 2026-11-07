@@ -1,1 +1,5 @@
 modelo,tipo,parametros,exhaustividad,precision,exactitud,cumple,elegido
+Línea base: todas negativas,linea base,0,1.0,0.5,0.5,False,False
+TF-IDF bigramas + red densa,conjunto,3200129,0.9215,0.9119247897080653,0.91625,True,True
+Embedding + Bi-LSTM,recurrente,1986305,0.9235,0.8996590355577204,0.91025,True,False
+BETO ajustado,transformer,109852418,0.9545,0.9413214990138067,0.9475,True,False
